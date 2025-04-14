@@ -2,7 +2,7 @@
 
 ---
 
-'''
+```
 
 [config for grpo]
 
@@ -37,7 +37,7 @@ metric: smallest
 pruning: 0.5 
 allocation: true
 
-'''
+```
 
 ---
 
