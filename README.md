@@ -59,12 +59,10 @@ https://github.com/lzhxmu/CPPO
 
 ---
 
-CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models (cppo)
-
+**CPPO: Accelerating the Training of Group Relative Policy Optimization-Based Reasoning Models** (cppo)
 https://arxiv.org/abs/2503.22342
 
-Understanding R1-Zero-Like Training: A Critical Perspective (drgrpo)
-
+**Understanding R1-Zero-Like Training: A Critical Perspective** (drgrpo)
 https://arxiv.org/abs/2503.20783
 
 ---
