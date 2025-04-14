@@ -1,6 +1,7 @@
 # tz_openr1
 
 ---
+
 '''
 
 [config for grpo]
@@ -37,6 +38,7 @@ pruning: 0.5
 allocation: true
 
 '''
+
 ---
 
 https://www.kaggle.com/code/stpeteishii/openr1-qwen2-0-5b-math-drgrpo2-0414 (drgrpo)
