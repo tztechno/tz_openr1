@@ -29,10 +29,10 @@ max_steps: -1
 num_generations: 4
 num_train_epochs: 1
 
-[drgrpo only]
+[add for drgrpo]
 scale_rewards: false
 
-[cppo only]
+[add for cppo]
 metric: smallest
 pruning: 0.5 
 allocation: true
