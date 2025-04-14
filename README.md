@@ -2,6 +2,8 @@
 
 ---
 
+https://www.kaggle.com/code/stpeteishii/openr1-qwen2-0-5b-math-drgrpo2-0414 (drgrpo)
+
 https://www.kaggle.com/code/stpeteishii/openr1-qwen2-0-5b-math-drgrpo-0414 (drgrpo)
 
 https://www.kaggle.com/code/stpeteishii/openr1-qwen2-0-5b-math-cppo-0414 (cppo)
